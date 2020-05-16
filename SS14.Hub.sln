@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS14.Hub", "SS14.Hub\SS14.Hub.csproj", "{49D5685B-D4B1-4CEA-8E42-BCBA1383A28E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{8877740C-98EF-4F4A-845D-A1DED0BC2380}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D5685B-D4B1-4CEA-8E42-BCBA1383A28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D5685B-D4B1-4CEA-8E42-BCBA1383A28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D5685B-D4B1-4CEA-8E42-BCBA1383A28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D5685B-D4B1-4CEA-8E42-BCBA1383A28E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
